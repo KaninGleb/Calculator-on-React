@@ -56,7 +56,7 @@ pnpm run dev
 
 ## :camera_flash:Screenshots
 
-![App in action](https://github.com/KaninGleb/FreeCodeCamp-Certification/blob/main/assets/screenshots/03-Front-End-Development-Libraries/03-Drum-Machine/Drum-Machine-FullHD.png)
+![App in action](https://github.com/KaninGleb/FreeCodeCamp-Certification/blob/main/assets/screenshots/03-Front-End-Development-Libraries/04-Calculator/Calculator-FullHD.png)
 
 ---
 
