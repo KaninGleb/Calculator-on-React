@@ -6,6 +6,10 @@
 
 ### 🔗 [Link to certification](https://github.com/KaninGleb/FreeCodeCamp-Certification)
 
+## :camera_flash:Screenshots
+
+![App in action](https://github.com/KaninGleb/FreeCodeCamp-Certification/blob/main/assets/screenshots/03-Front-End-Development-Libraries/04-Calculator/Calculator-FullHD.png)
+
 ## :dart:Features
 - **Basic Arithmetic Operations** </br>
 Perform addition, subtraction, multiplication, and division with real-time results.
@@ -53,10 +57,6 @@ pnpm install
 ```
 pnpm run dev
 ```
-
-## :camera_flash:Screenshots
-
-![App in action](https://github.com/KaninGleb/FreeCodeCamp-Certification/blob/main/assets/screenshots/03-Front-End-Development-Libraries/04-Calculator/Calculator-FullHD.png)
 
 ---
 
